@@ -1,0 +1,8 @@
+<!-- position: body -->
+<script type="text/javascript" charset="utf-8">
+// Load the classic theme
+Galleria.loadTheme('{WB_URL}/modules/foldergallery/scripts/galleria/themes/classic/galleria.classic.min.js');
+// Initialize Galleria
+Galleria.run('#galleria');
+Galleria.configure({lightbox: true})
+</script>

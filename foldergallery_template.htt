@@ -1,0 +1,12 @@
+<div id="galleria">
+	<!-- BEGIN images -->
+	<!-- BEGIN thumbnails -->
+  <a href="{ORIGINAL}">
+    <img src="{THUMB}"
+  			 data-big="{ORIGINAL}"
+  			 data-title="{CAPTION}" 
+  			 alt="{CAPTION}">
+  </a>
+	<!-- END thumbnails -->
+	<!-- END images -->
+</div>
